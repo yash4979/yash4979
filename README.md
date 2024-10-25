@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Reactjs**
-
-- 👯 I’m looking to collaborate on **frontend related projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yash4979](https://github.com/yash4979)
-
 - 📫 How to reach me **yashjpatel1012002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
