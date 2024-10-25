@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **InshortsClone**
-
 - 🌱 I’m currently learning **Reactjs**
 
 - 👯 I’m looking to collaborate on **frontend related projects**
